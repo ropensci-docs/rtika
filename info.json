@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a8689c849d297c17d0ea794d2da8c489dcb34d28",
+    "author": "Sasha goodman <goodmansasha@gmail.com>",
+    "time": "2020-04-24 18:08:37",
+    "files": 32,
+    "merge": false,
+    "message": "updating Tika to 1.24.1\n"
+  },
+  "remote": "https://github.com/ropensci/rtika",
+  "pkg": "rtika"
+}
