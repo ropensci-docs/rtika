@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "64f4be7c75997fb55c26b3fc9d1180b729f14775",
+    "author": "Sasha Goodman <goodmansasha@gmail.com>",
+    "time": "2023-05-04 22:09:30",
+    "files": 2,
+    "merge": false,
+    "message": "link to codecov.io fixed\n"
+  },
+  "repo": "https://github.com/ropensci/rtika",
+  "pkg": "rtika"
+}
