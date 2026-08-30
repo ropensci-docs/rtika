@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "350fcc3e90ab83dad8770021d6258147cf0c2ff0",
+    "author": "Sasha Goodman Chase <4193801+soshsquatch@users.noreply.github.com>",
+    "time": "2025-10-12T13:59:05Z",
+    "files": 7,
+    "merge": false,
+    "message": "fixed tabulapdf link\n\nsmall fix, refreshed docs with pkgdown link to tabulapdf\n"
+  },
+  "repo": "https://github.com/ropensci/rtika",
+  "pkg": "rtika",
+  "time": "2026-08-30T07:12:28Z"
+}
